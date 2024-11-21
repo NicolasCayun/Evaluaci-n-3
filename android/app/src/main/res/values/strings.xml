@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">biblioteca-digital</string>
+    <string name="title_activity_main">biblioteca-digital</string>
+    <string name="package_name">com.duoc.biblioteca</string>
+    <string name="custom_url_scheme">com.duoc.biblioteca</string>
+</resources>
